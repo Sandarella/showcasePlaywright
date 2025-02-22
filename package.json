@@ -1,0 +1,14 @@
+{
+  "name": "showcaseplaywright",
+  "version": "1.0.0",
+  "description": "Репозиторий демонстрирует примеры кейсов для автоматизации тестирования и мой подход. | This repository showcases examples of cases for test automation and my approach.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
